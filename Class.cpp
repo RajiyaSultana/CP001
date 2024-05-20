@@ -48,6 +48,5 @@ int main() {
     cout << st.get_standard() << "\n";
     cout << "\n";
     cout << st.to_string();
-    
     return 0;
 }
